@@ -8,7 +8,7 @@ Top 10 users with more tweets
 
 ## Part 2
 
-# Top common words inside tweets
+Top common words inside tweets
 
 
 ## Part 3
